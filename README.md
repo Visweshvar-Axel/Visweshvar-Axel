@@ -1,8 +1,6 @@
 <img align="right" alt="coding" height="350" width="100%" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
 
 
-
-
 # 💫 About Me:
 
 
