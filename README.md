@@ -7,13 +7,7 @@
 <h2 align="center"> Hey there! 👋, I'm VISWESHVAR</h1>
 <h3 align="center">A passionate developer from India with expertise in C, C++, modern C++, Java, and Python. I'm also keen on web development. Welcome to my GitHub profile, where you can explore some of my projects and contributions to the coding community.</h3>
 
-###
-
-<br clear="both">
-
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 
