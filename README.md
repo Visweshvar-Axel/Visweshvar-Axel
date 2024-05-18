@@ -46,7 +46,7 @@ I'm currently focused on AI-related projects, particularly in the field of NLP a
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visweshvar-axel" alt="visweshvar-axel" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visweshvar-axel" alt="visweshvar-axel" /></a> </p> -->
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Visweshvar-Axel&limit=5&theme=oldie&combine_all_yearly_contributions=true) -->
