@@ -38,9 +38,18 @@
 
 # 💻 Tech Stack:
 
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
+<div style="float: right;">
+    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
+</div>
+
+<div style="float: right;">
+    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
+</div>
+
+<div style="float: right;">
+    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
+</div>
+
 
 <!-- ## Skills and experience -->
 ### programming language 
