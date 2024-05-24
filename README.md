@@ -1,8 +1,8 @@
 <img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/Professional%20LinkedIn%20Banner.png">
 
 
-
-# 💫 About Me:
+<!-- 
+# 💫 About Me: -->
 
 <h2 align="center"> Hey there! 👋, I'm VISWESHVAR</h1>
 <h3 align="center">A passionate developer from India with expertise in C, C++, modern C++, Java, and Python. I'm also keen on web development. Welcome to my GitHub profile, where you can explore some of my projects and contributions to the coding community.</h3>
