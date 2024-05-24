@@ -38,17 +38,6 @@
 
 # 💻 Tech Stack:
 
-<div style="float: right;">
-    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
-</div>
-
-<div style="float: right;">
-    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
-</div>
-
-<div style="float: right;">
-    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
-</div>
 
 
 <!-- ## Skills and experience -->
@@ -99,6 +88,17 @@
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 
+<div style="float: right;">
+    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
+</div>
+
+<div style="float: right;">
+    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
+</div>
+
+<div style="float: right;">
+    <img alt="coding" height="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
+</div>
 
 
 <!-- 
