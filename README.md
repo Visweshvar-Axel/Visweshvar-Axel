@@ -40,8 +40,24 @@
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47bpj97o61s585ko0xp3xz25kej1u5gd0qehnjh00g&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
+## Skills and experience
+
+### programming language / IDE
+![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Django](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C) ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)
+
+### domain knowledge
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Computer Science Development](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Electrical Engineering Development](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white) ![Software Development](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)
+
+### CI / CD
+![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### database
+![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Machine learning/deep learning framework
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
