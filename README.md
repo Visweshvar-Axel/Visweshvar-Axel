@@ -59,6 +59,7 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Visweshvar-Axel&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Visweshvar-Axel&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
