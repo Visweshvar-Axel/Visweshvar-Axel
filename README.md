@@ -5,7 +5,8 @@
 <!-- 
 # 💫 About Me: -->
 
-<h2 align="center"> Hey there! 👋, I'm VISWESHVAR</h1>
+<!-- <h2 align="center"> Hey there! 👋, I'm VISWESHVAR</h1> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+VISWESHVAR)](https://git.io/typing-svg)
 <h3 align="center">A passionate developer from India with expertise in C, C++, modern C++, Java, and Python. I'm also keen on web development. Welcome to my GitHub profile, where you can explore some of my projects and contributions to the coding community.</h3>
 
 
