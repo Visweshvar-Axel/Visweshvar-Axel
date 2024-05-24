@@ -58,11 +58,11 @@
 
   
 ![](https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Visweshvar-Axel&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 ![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visweshvar-axel" alt="visweshvar-axel" /></a> </p> -->
 
