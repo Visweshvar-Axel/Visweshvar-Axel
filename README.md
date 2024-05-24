@@ -39,6 +39,8 @@
 # 💻 Tech Stack:
 
 <img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
 
 <!-- ## Skills and experience -->
 ### programming language 
