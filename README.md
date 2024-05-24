@@ -1,5 +1,5 @@
+<img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/Professional%20LinkedIn%20Banner.png">
 <img align="right" alt="coding" height="350" width="100%" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
-<img align="right" alt="coding" height="350" width="100%" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/Professional%20LinkedIn%20Banner.png">
 
 
 # 💫 About Me:
