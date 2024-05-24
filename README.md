@@ -28,7 +28,7 @@
 
 
 
-<p align="justify">
+<p align="justify" style="padding-right: 5px;">
 I'm currently focused on AI-related projects, particularly in the field of NLP and BERT. My goal is to leverage my skills and passion to contribute to innovative companies in the technology domain. I'm always open to new opportunities that challenge me to grow, learn, and innovate. Let's connect and explore the possibilities together, shaping the future of technology.
 <p>
 <br><br>#Developer #WebDevelopment #AI #NLP #Bert
