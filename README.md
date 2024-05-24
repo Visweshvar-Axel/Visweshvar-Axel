@@ -38,7 +38,7 @@
 
 # 💻 Tech Stack:
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47bpj97o61s585ko0xp3xz25kej1u5gd0qehnjh00g&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
 
 ## Skills and experience
 
