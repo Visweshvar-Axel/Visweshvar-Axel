@@ -50,17 +50,16 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Visweshvar-Axel&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400"/>
-</div>
+</div> -->
 
   
-![](https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Visweshvar-Axel&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Visweshvar-Axel&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=400)
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
