@@ -68,8 +68,6 @@
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white)
 ![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
 
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
-
 ### domain knowledge
 ![Computer Application Development Badge](https://img.shields.io/badge/-Computer%20Application%20Development-003366?style=flat&logo=github&logoColor=white)
 ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-0078D6?style=flat&logo=github&logoColor=white)
@@ -81,6 +79,8 @@
 ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white)
 ![GitHub Workflow Badge](https://img.shields.io/badge/-GitHub%20Workflow-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
 
 <img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
 
