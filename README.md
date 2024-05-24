@@ -37,11 +37,11 @@
               
 
 # 💻 Tech Stack:
-<div align="right">
+<span align="right">
 <img  alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
 <img  alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
 <img  alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
-</div>
+</span>
 
 <!-- ## Skills and experience -->
 ### programming language 
