@@ -11,7 +11,10 @@
 
 ## 🌐 Socials:
 
-<img align="right" alt="coding" width="500" style="margin-left: 20px;" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
+<div style="float: right; margin-left: 20px;">
+  <img alt="coding" width="500" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
+  <img align="right" alt="coding" width="500" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
