@@ -60,8 +60,6 @@
 ![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
 ![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)
 
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
-
 ### Library and Frameworks
 ![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
 ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
@@ -70,12 +68,12 @@
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white)
 ![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
 
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
+
 ### domain knowledge
 ![Computer Application Development Badge](https://img.shields.io/badge/-Computer%20Application%20Development-003366?style=flat&logo=github&logoColor=white)
 ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-0078D6?style=flat&logo=github&logoColor=white)
 ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=github&logoColor=white)
-
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
 
 ### CI / CD
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
@@ -83,6 +81,8 @@
 ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white)
 ![GitHub Workflow Badge](https://img.shields.io/badge/-GitHub%20Workflow-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
 
 ### database
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
