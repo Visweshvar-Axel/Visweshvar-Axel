@@ -59,7 +59,7 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Visweshvar-Axel&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=900)
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
