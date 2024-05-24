@@ -50,9 +50,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Visweshvar-Axel&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400"/>
+</div>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Visweshvar-Axel&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=radical&no-frame=true&no-bg=true&margin-w=4)
