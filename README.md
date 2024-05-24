@@ -34,7 +34,6 @@ I'm currently focused on AI-related projects, particularly in the field of NLP a
 <br><br>#Developer #WebDevelopment #AI #NLP #Bert
               
 
-
 # 💻 Tech Stack:
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47bpj97o61s585ko0xp3xz25kej1u5gd0qehnjh00g&ep=v1_gifs_related&rid=giphy.gif&ct=g">
