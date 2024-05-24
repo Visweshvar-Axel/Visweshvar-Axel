@@ -40,8 +40,7 @@
 
 <img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
 
-## Skills and experience
-
+<!-- ## Skills and experience -->
 ### programming language 
 ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -51,8 +50,6 @@
 ![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)
-
 
 ### IDE
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
@@ -61,7 +58,7 @@
 ![Code::Blocks Badge](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=Code%3A%3ABlocks&logoColor=white)
 ![NetBeans Badge](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=white)
 ![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
-
+![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 ### Library and Frameworks
 ![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
@@ -76,7 +73,6 @@
 ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-0078D6?style=flat&logo=github&logoColor=white)
 ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=github&logoColor=white)
 
-
 ### CI / CD
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
@@ -84,12 +80,9 @@
 ![GitHub Workflow Badge](https://img.shields.io/badge/-GitHub%20Workflow-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
-
 ### database
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-
-
 
 ### Machine learning/deep learning framework
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
@@ -97,7 +90,7 @@
 
 
 
-
+<!-- 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
@@ -116,7 +109,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  -->
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>--> 
