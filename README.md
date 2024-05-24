@@ -143,10 +143,6 @@
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Visweshvar-Axel&limit=5&theme=oldie&combine_all_yearly_contributions=true) -->
 
-[![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&icon=6&color=1)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
 ---
 
 
@@ -157,6 +153,10 @@
 ![BEPb's github contribution graph snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&icon=6&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
