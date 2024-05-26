@@ -8,6 +8,9 @@
  <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+VISWESHVAR" alt="Typing SVG" /></a> <!--Hey there! 👋, I'm VISWESHVAR --></div>
 <h3 align="center">A passionate developer from India with expertise in C, C++, modern C++, Java, and Python. I'm also keen on web development. Welcome to my GitHub profile, where you can explore some of my projects and contributions to the coding community.</h3>
 
+ <div align="center">
+ ![](https://komarev.com/ghpvc/?username=Visweshvar-Axel&style=plastic&color=blue)
+ </div>
 
 ## 🌐 Socials:
 
