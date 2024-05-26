@@ -12,7 +12,7 @@
 
  ![](https://komarev.com/ghpvc/?username=Visweshvar-Axel&style=plastic&color=blue)
  
- ![Java Badge](https://komarev.com/ghpvc/?username=Visweshvar-Axel&style=plastic&color=blue)
+ <!-- ![](https://komarev.com/ghpvc/?username=Visweshvar-Axel&style=plastic&color=blue) -->
  
  </div>
 
