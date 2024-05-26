@@ -9,7 +9,11 @@
 <h3 align="center">A passionate developer from India with expertise in C, C++, modern C++, Java, and Python. I'm also keen on web development. Welcome to my GitHub profile, where you can explore some of my projects and contributions to the coding community.</h3>
 
  <div align="center">
+
  ![](https://komarev.com/ghpvc/?username=Visweshvar-Axel&style=plastic&color=blue)
+ 
+ ![Java Badge](https://komarev.com/ghpvc/?username=Visweshvar-Axel&style=plastic&color=blue)
+ 
  </div>
 
 ## 🌐 Socials:
