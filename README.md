@@ -40,9 +40,9 @@
 
 
 <p align="justify" style="margin-right: 520px;">
-&nbsp;I'm currently focused on AI-related projects, particularly in the field of NLP and BERT. My goal is to leverage my skills and passion to contribute to innovative companies in the technology domain. I'm always open to new opportunities that challenge me to grow, learn, and innovate. Let's connect and explore the possibilities together, shaping the future of technology.
+&nbsp;My current focus is on Java development, with a keen interest in exploring its various frameworks, applications, especially NLP and BERT. Always embracing challenges that promote growth, learning, and innovation. Let's collaborate to shape the future of technology together.
 <p>
-<br><br>#Developer #WebDevelopment #AI #NLP #Bert
+<br><br>#Java #Developer #WebDevelopment #AI #NLP #Bert
               
 
 # 💻 Tech Stack:
