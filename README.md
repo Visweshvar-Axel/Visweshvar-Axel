@@ -67,6 +67,7 @@
 ![NetBeans Badge](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=white)
 ![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
 ![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)
+![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 
 ### Library and Frameworks
 ![JUnit Badge](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=JUnit5&logoColor=white)
@@ -79,11 +80,13 @@
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white)
 ![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
+![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### domain knowledge
 ![Computer Application Development Badge](https://img.shields.io/badge/-Computer%20Application%20Development-003366?style=flat&logo=github&logoColor=white)
 ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-0078D6?style=flat&logo=github&logoColor=white)
 ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=github&logoColor=white)
+![Web Development Badge](https://img.shields.io/badge/-Web%20Development-4285F4?style=flat&logo=HTML5&logoColor=white)
 
 <img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
 
