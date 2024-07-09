@@ -69,8 +69,12 @@
 ![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 ### Library and Frameworks
-![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
+![JUnit Badge](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=JUnit5&logoColor=white)
+![Mockito Badge](https://img.shields.io/badge/-Mockito-2D9CDB?style=flat&logo=Mockito&logoColor=white)
+<-- ![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) -->
 ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
 ![Plotly Badge](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white)
