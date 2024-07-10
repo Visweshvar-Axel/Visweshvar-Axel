@@ -80,6 +80,7 @@
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white)
 ![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
+
 <!-- ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) -->
 
 ### domain knowledge
